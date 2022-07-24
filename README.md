@@ -1,5 +1,5 @@
 
-# NewScraper  📰
+# NewScraper 📰
 
 NewScraper is a live crypto news feed app built using web-scrapping.
 The app takes live feed from `https://www.businesstoday.in/crypto` and presents it in aesthetic format which could be downloaded and shared on social media
